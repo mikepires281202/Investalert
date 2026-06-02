@@ -1,0 +1,6 @@
+{
+  "name": "InvestAlert",
+  "description": "Plataforma web/mobile de assinatura para entrega automatizada de relatórios de investimentos via WhatsApp e Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
